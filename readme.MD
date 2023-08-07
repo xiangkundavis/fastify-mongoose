@@ -1,4 +1,4 @@
-### Mongoose
+### Fastify Mongoose
 #### entry point: index.js
 #### controllers
 #### models
@@ -8,3 +8,13 @@
 ```nodejs
 node index.js
 ```
+
+#### POSTMAN
+##### Create
+```nodejs
+{
+    "text":"test1"
+}
+```
+![Tux, the Linux mascot](./postmanimages/create.png)
+
